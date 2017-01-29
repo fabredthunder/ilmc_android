@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="99dp">
+
+    <EditText
+        android:id="@+id/et_entry"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/common_margin"
+        android:layout_marginLeft="@dimen/common_margin"
+        android:layout_marginRight="@dimen/common_margin"
+        android:padding="@dimen/common_margin"
+        android:isScrollContainer="true"
+        android:minWidth="300dp"
+        android:minHeight="99dp"
+        android:maxHeight="198dp"
+        android:gravity="start"
+        android:inputType="textCapSentences|textMultiLine"
+        android:singleLine="false"
+        android:hint="Tapez votre description"
+        android:textColor="@color/text_dark"
+        android:textColorHint="@color/text_alternative"
+        android:background="@drawable/edit_text_bg" />
+
+</LinearLayout>

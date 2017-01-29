@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:checked="true"
+            android:id="@+id/nav_tickets"
+            android:icon="@drawable/ic_menu_ticket"
+            android:title="Tickets" />
+        <item
+            android:id="@+id/nav_map"
+            android:icon="@drawable/ic_menu_map"
+            android:title="Carte" />
+        <item
+            android:id="@+id/nav_my_city"
+            android:icon="@drawable/ic_menu_my_city"
+            android:title="Ma Ville" />
+        <item
+            android:id="@+id/nav_my_profile"
+            android:icon="@drawable/ic_menu_profile"
+            android:title="Mon Profil" />
+    </group>
+
+</menu>

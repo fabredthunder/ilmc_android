@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@color/bg_dark_light">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_fb"
+        android:layout_marginTop="32dp"
+        android:layout_marginBottom="@dimen/common_margin"
+        android:text="S'inscrire avec Facebook"
+        android:textSize="@dimen/text_default"
+        android:textColor="@color/text_light"
+        android:gravity="center"
+        android:padding="@dimen/common_margin"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ou"
+        android:layout_marginBottom="@dimen/common_margin"
+        android:layout_gravity="center"
+        android:textColor="@color/bg_light"/>
+
+    <EditText
+        android:id="@+id/firstname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Prénom"
+        android:textColorHint="@color/text_hint"
+        android:textColor="@color/text_light"
+        android:padding="@dimen/common_margin"
+        android:singleLine="true"
+        android:inputType="textCapSentences"
+        android:background="@color/bg_dark_lighter"/>
+
+    <EditText
+        android:id="@+id/lastname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nom"
+        android:textColorHint="@color/text_hint"
+        android:textColor="@color/text_light"
+        android:padding="@dimen/common_margin"
+        android:singleLine="true"
+        android:inputType="textCapSentences"
+        android:background="@color/bg_transparent"/>
+
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Adresse email"
+        android:textColorHint="@color/text_hint"
+        android:textColor="@color/text_light"
+        android:padding="@dimen/common_margin"
+        android:singleLine="true"
+        android:background="@color/bg_dark_lighter"
+        android:inputType="textEmailAddress" />
+
+    <EditText
+        android:id="@+id/pass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Choisissez un mot de passe"
+        android:fontFamily="sans-serif"
+        android:inputType="textPassword"
+        android:textColorHint="@color/text_hint"
+        android:textColor="@color/text_light"
+        android:padding="@dimen/common_margin"
+        android:singleLine="true"
+        android:background="@color/bg_transparent"/>
+
+    <LinearLayout
+        android:id="@+id/my_city"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/input_layout_password"
+        android:orientation="horizontal"
+        android:padding="@dimen/common_margin"
+        android:background="@color/bg_dark_lighter">
+
+        <fr.ilovemycity.android.utils.components.CustomTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Votre ville"
+            android:textColor="@color/text_light"
+            android:textSize="16sp"/>
+
+        <Spinner
+            android:id="@+id/city_spinner"
+            android:layout_marginLeft="@dimen/common_margin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        </Spinner>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/register"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/register_btn"
+        android:gravity="center">
+
+        <TextView
+            tools:ignore="MissingPrefix"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/register"
+            android:textAllCaps="true"
+            android:textSize="18sp"
+            android:textColor="@color/text_light"
+            android:padding="@dimen/common_margin"/>
+
+    </LinearLayout>
+
+
+
+    <TextView
+        android:id="@+id/welcome"
+        android:layout_marginTop="48dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/bg_light"
+        android:layout_gravity="center"
+        android:textSize="@dimen/text_default"/>
+
+</LinearLayout>

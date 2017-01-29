@@ -1,0 +1,41 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- Default margins -->
+    <dimen name="big_margin">24dp</dimen>
+    <dimen name="common_margin">16dp</dimen>
+    <dimen name="medium_margin">8dp</dimen>
+    <dimen name="small_margin">4dp</dimen>
+
+    <!-- Specific margins -->
+    <dimen name="header_margin">48dp</dimen>
+
+    <!-- Text dimensions -->
+    <dimen name="text_default">16sp</dimen>
+    <dimen name="text_title">20sp</dimen>
+
+    <!-- Buttons dimensions -->
+    <dimen name="btn_radius">5dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+
+    <!-- Bar dimens -->
+    <dimen name="status_bar_height">0dp</dimen>
+
+    <!-- Avatar dimens -->
+    <dimen name="mini_avatar">32dp</dimen>
+
+    <!-- Drawer -->
+    <dimen name="nav_header_height">190dp</dimen>
+
+    <dimen name="backdrop_height">200dp</dimen>
+
+    <dimen name="fb_margin_override_top">12dp</dimen>
+    <dimen name="fb_margin_override_bottom">12dp</dimen>
+    <!--The next value changes the margin between the FB icon and the left border:-->
+    <dimen name="fb_margin_override_lr">10dp</dimen>
+    <!--The next value changes the margin between the FB icon and the login text:-->
+    <dimen name="fb_margin_override_textpadding">17dp</dimen>
+
+</resources>

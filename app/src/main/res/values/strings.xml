@@ -1,0 +1,80 @@
+<resources>
+
+    <string name="app_name">I Love My City</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="facebook_app_id">318391275210504</string>
+
+    <string name="base_url">https://api.ilovemycity.fr</string>
+
+    <!-- Strings related to login -->
+    <string name="hint_email">Adresse email</string>
+    <string name="hint_firstname">Prénom</string>
+    <string name="hint_lastname">Nom</string>
+    <string name="hint_password">Mot de passe</string>
+    <string name="action_sign_in">Connexion</string>
+    <string name="or">ou</string>
+    <string name="register">s\'inscrire</string>
+    <string name="sign_in">se connecter</string>
+
+    <!-- Strings related to images descriptions -->
+    <string name="desc_ilmc_banner">ILoveMyCity</string>
+
+
+    <string name="action_logout">Deconnexion</string>
+    <string name="action_facebook_sign_in">Commencer maintenant</string>
+    <string name="action_facebook_register">S\'inscrire avec Facebook</string>
+
+    <!-- Login && Inscription -->
+    <string name="invalid_email">Email invalide</string>
+    <string name="mandatory">Obligatoire</string>
+    <string name="create_error">Nom d\'utilisateur ou email déjà existant</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- Menu -->
+    <string name="menu_ticket">Tickets</string>
+    <string name="menu_map">Carte</string>
+    <string name="menu_city">Ma ville</string>
+    <string name="menu_profil">Profil</string>
+    <string name="a">à</string>
+    <string name="ticket_title">Ticket Title</string>
+    <string name="today">Aujourd\'hui</string>
+    <string name="create_ticket">Signaler un incident ici !</string>
+    <string name="set_position">Placez un marqueur !</string>
+    <string name="home_text">Inscrivez-vous pour accéder à tous les services que propose I Love My City et ainsi devenir un citoyen impliqué dans votre ville</string>
+    <string name="home_text_2">C\'est vos contributions qui feront aller de l\'avant votre ville. Avec I Love My City, vous avez le pouvoir de faire changer les choses !</string>
+    <string name="home_text_3">Grâce à ILMC, vous ne manquerez plus aucun évènement non loin de chez vous. Vous serez toujours informé des nouveautés dans votre ville</string>
+    <string name="empty">Aucun ticket</string>
+    <string name="unknow">unknow</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <!-- Cloudinary -->
+    <string name="cloudinary_name">ds68ifysc</string>
+    <string name="cloudinary_api_key">796488878354961</string>
+    <string name="cloudinary_secret">h3u2SzpQDviU2hdENt2VMfdN1SI</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="validate">Valider</string>
+    <string name="photo_incident">Photo of the incident</string>
+    <string name="adress">Adresse</string>
+    <string name="my_tickets">Mes tickets</string>
+    <string name="all_tickets">Tous les tickets</string>
+
+
+    <!-- Toast messages -->
+    <string name="double_tap_toast">Appuyez de nouveau pour quitter</string>
+
+    <!-- Ticket activity -->
+    <string name="vote">Validé par %1$d personne(s) !</string>
+    <string name="no_vote">Aucun vote reçu !</string>
+    <string name="created_by">Signalé par %1$s</string>
+    <string name="awaiting">En attente</string>
+    <string name="pending">En cours</string>
+    <string name="solved">Résolu</string>
+    <string name="pas_de_ville">Vous n\'avez pas indiqué votre ville …\nRendez-vous dans votre profil pour le faire !</string>
+    <string name="no_survey">Aucun sondage en cours</string>
+    <string name="no_event">Aucun evenement à venir</string>
+    <string name="key_cloudinary">cloudinary://796488878354961:h3u2SzpQDviU2hdENt2VMfdN1SI@ds68ifysc</string>
+
+</resources>

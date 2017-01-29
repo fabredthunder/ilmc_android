@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!--   <com.google.android.gms.maps.MapView
+           android:id="@+id/view_map"
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           xmlns:android="http://schemas.android.com/apk/res/android" />-->
+
+    <fragment
+        android:id="@+id/mapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:name="com.google.android.gms.maps.SupportMapFragment"/>
+
+    <fr.ilovemycity.android.utils.components.CustomLinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="bottom">
+
+        <Button
+            android:id="@+id/button_create"
+            android:visibility="gone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/create_ticket"
+            android:textColor="@color/bg_white"
+            android:textSize="@dimen/text_default"
+            android:background="@drawable/btn_ticket_active"
+            android:paddingTop="@dimen/medium_margin"
+            android:paddingBottom="@dimen/medium_margin"
+            android:paddingLeft="@dimen/common_margin"
+            android:paddingRight="@dimen/common_margin" />
+
+        <Button
+            android:id="@+id/button_set"
+            android:visibility="visible"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/set_position"
+            android:textColor="@color/bg_white"
+            android:textSize="@dimen/text_default"
+            android:background="@drawable/btn_ticket"
+            android:paddingTop="@dimen/medium_margin"
+            android:paddingBottom="@dimen/medium_margin"
+            android:paddingLeft="@dimen/common_margin"
+            android:paddingRight="@dimen/common_margin" />
+
+        <FrameLayout
+            android:id="@+id/subcontainer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"/>
+
+    </fr.ilovemycity.android.utils.components.CustomLinearLayout>
+
+</FrameLayout>

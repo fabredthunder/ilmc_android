@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Date de création" android:id="@+id/creation"/>
+    <item android:title="Dernière modification" android:id="@+id/update"/>
+    <item android:title="Nombre de votes" android:id="@+id/vote"/>
+    <item android:title="Statut du ticket" android:id="@+id/status"/>
+</menu>

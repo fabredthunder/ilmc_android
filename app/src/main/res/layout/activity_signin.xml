@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_dark_light"
+    android:gravity="center">
+
+    <!--<TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_fb"
+        android:layout_marginBottom="@dimen/common_margin"
+        android:text="Connexion avec Facebook"
+        android:textSize="@dimen/text_default"
+        android:textColor="@color/text_light"
+        android:gravity="center"
+        android:padding="@dimen/common_margin"/>-->
+
+    <com.facebook.login.widget.LoginButton
+        android:id="@+id/login_fb_btn"
+        android:layout_width="match_parent"
+        android:layout_height="72dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:padding="16dp"
+        android:layout_marginBottom="@dimen/common_margin" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ou"
+        android:layout_marginBottom="@dimen/common_margin"
+        android:layout_gravity="center"
+        android:textColor="@color/bg_light"/>
+
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Adresse email"
+        android:textColorHint="@color/text_hint"
+        android:textColor="@color/text_light"
+        android:padding="@dimen/common_margin"
+        android:singleLine="true"
+        android:background="@color/bg_dark_lighter"
+        android:inputType="textEmailAddress" />
+
+    <EditText
+        android:id="@+id/pass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Mot de passe"
+        android:textColorHint="@color/text_hint"
+        android:textColor="@color/text_light"
+        android:fontFamily="sans-serif"
+        android:padding="@dimen/common_margin"
+        android:singleLine="true"
+        android:background="@color/bg_transparent"
+        android:inputType="textPassword"/>
+
+    <LinearLayout
+        android:id="@+id/log"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/register_btn"
+        android:gravity="center">
+
+        <TextView
+            tools:ignore="MissingPrefix"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sign_in"
+            android:textAllCaps="true"
+            android:textSize="18sp"
+            fontPath="fonts/Roboto-Bold.ttf"
+            android:textColor="@color/text_light"
+            android:padding="@dimen/common_margin"/>
+
+    </LinearLayout>
+
+</LinearLayout>

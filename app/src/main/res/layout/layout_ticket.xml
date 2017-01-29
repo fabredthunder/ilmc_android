@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/tools">
+
+    <android.support.v7.widget.CardView
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/card_view"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/small_margin"
+        card_view:cardElevation="2dp"
+        card_view:cardBackgroundColor="@android:color/white">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:id="@+id/iv_ticket"
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:transitionName="ivticket"
+                    android:src="@drawable/empty_ticket"
+                    android:scaleType="centerCrop"/>
+
+                <ImageView
+                    android:id="@+id/iv_status"
+                    android:layout_width="10dp"
+                    android:layout_height="10dp"
+                    android:layout_margin="@dimen/medium_margin"
+                    android:src="@drawable/status_close_anim"/>
+
+                <ImageView
+                    android:id="@+id/like_btn"
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_margin="@dimen/medium_margin"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:src="@drawable/ic_like_empty"/>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/medium_margin">
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:id="@+id/creator_img"
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:transitionName="ivcreator"
+                    android:layout_marginRight="@dimen/medium_margin"
+                    android:layout_marginEnd="@dimen/medium_margin"
+                    android:src="@drawable/ic_img_empty_avatar"
+                    android:layout_centerVertical="true"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/creator_img"
+                    android:layout_toEndOf="@+id/creator_img"
+                    android:layout_centerVertical="true"
+                    android:orientation="vertical">
+
+                    <fr.ilovemycity.android.utils.components.CustomTextView
+                        android:id="@+id/tv_title"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:maxLines="1"
+                        android:ellipsize="marquee"
+                        app:font="Roboto-Regular.ttf"
+                        android:text="Fake Title"
+                        android:textSize="16sp"
+                        android:textColor="@color/text_black"/>
+
+                    <fr.ilovemycity.android.utils.components.CustomTextView
+                        android:id="@+id/tv_city"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:maxLines="1"
+                        android:ellipsize="marquee"
+                        app:font="Roboto-Regular.ttf"
+                        android:text="Fake City"
+                        android:textSize="16sp"
+                        android:textColor="@color/text_alternative"/>
+
+                </LinearLayout>
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>
