@@ -2,481 +2,499 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_6ebff395f81b565ae5112b07b6ff8254b33f3fc2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/exploded-aar/com.github.nguyenhoanglam/ImagePicker/1.1.3/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="f64eb65137748aa084d8e746b08911102b82a25d">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/com.github.nguyenhoanglam-ImagePicker-1.1.3_32c5deaead11c0525a407e1986675f3abd4683ef.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/library-2.4.0_2c652163de3b9fc8b4de8d2adcc6785764cef78d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/glide-3.7.0_2ac058bedd22160d6e0c824ed46070780e211431.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/exploded-aar/com.github.ksoichiro/android-observablescrollview/1.5.2/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="256c2cf84542c459927ed4aa5f99a9b47855c071">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/com.github.ksoichiro-android-observablescrollview-1.5.2_4e80b6d27bdf27fea46b512b6fe88d0436833364.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/exploded-aar/me.relex/circleindicator/1.1.5/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="3505b86b653bb367105403d204cc7752142d86c1">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/me.relex-circleindicator-1.1.5_25d5b4f08ad3bb52f1e9483ef619df543b72968d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/gson-2.4_b476ff5b30a840417743709fe2bc414c453b1d80.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.0_60fa3a9b804311d952fcabedfb7a8f358d601ff3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_36d1936fdce51fc5db77152044a0112e2384e468.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.0.1_ce1793073d94b59dd6f7a1b8f1a19ef0154b18fe.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="ca5e58104f56f918f0fb3a5b1b371ab599ae56b2">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.2.1_7631d608f167fc2a9fd87f89b07279ed8ea2d7fe.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/exploded-aar/com.github.armcha/SpaceNavigationView/1.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="4c909a24453c6434929f10563c9eff3cc2e54587">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/com.github.armcha-SpaceNavigationView-1.1.0_0d7b2079f64d1d84ea6d462a653cba5e3942e920.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_11524e13580460cf14a7e9df3a102ebbf166a07c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0_caf8247d383c2e3bbd180a7779c9f030388b8f82.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/exploded-aar/com.github.armcha/datehelper/2.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="9851cd9be96b40f31539107d3b8e1cff954e04c4">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/com.github.armcha-datehelper-2.2.0_83517d9ea6412eacdcdc82c9afc9dd8c41746b87.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/eventbus-3.0.0_2991d8023cec825b6a8e49e7b5341259c4b27b5f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_cd712b4969aeb1fd4d07b401d0910fda54dab5ac.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/libs/cloudinary-android-1.2.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="2026ce27a1f4afcc0488e3bc3a965ca9cdf9efe9">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/cloudinary-android-1.2.2_fdb53f6d4a4474a0f4e62f7d4d5aa0db9200e8cd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_49e95184c6788d01633f030a9617503b9ec903d3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/exploded-aar/com.jpardogo.materialtabstrip/library/1.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="611c7708cd3df0d7ae99105d4df5af8eb25c4b32">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/com.jpardogo.materialtabstrip-library-1.1.0_17adb54bfc28befdcbf038d8d1b39e3d4eb0e0e6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/exploded-aar/com.github.florent37/materialviewpager/1.1.3/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="44659983651a49b0b0691e874bde6475bc067648">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/com.github.florent37-materialviewpager-1.1.3_ff56225436806ee1d6eee11e9660678c0df1c005.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.2.1/d6f54d76edfbe779a50a8636b10fd3f555d8f780/butterknife-annotations-8.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="d6f54d76edfbe779a50a8636b10fd3f555d8f780">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.2.1_c8c0181873437ed408892628f9563d1ff0c5784c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/exploded-aar/com.github.ybq/Android-SpinKit/1.0.4/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="876128c14268a173e9f1be29ed9ee637575f7e91">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/com.github.ybq-Android-SpinKit-1.0.4_08a66e1d80d7388c5bdac5666541cb57ab522b49.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/exploded-aar/com.github.nitrico.stickyscrollview/stickyscrollview/1.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="50a6a89d629a84f9c388ddc7de9b81b50c2eaa4f">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/com.github.nitrico.stickyscrollview-stickyscrollview-1.0.1_0e167350bbfb7d2cb18487c2e182beed4d9d332c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-10.0.1_3ba7b00a207898dda9e42bf3152eaaa876f0253e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.1_ac7af324d51d81450dfc87918dbc4b3c90a8e147.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/libs/cloudinary-core-1.2.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="1f9cdf1e3635c9a728c71bd7aaf58e306d001465">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/cloudinary-core-1.2.2_61deacd312fba94e56583af458e1cd8527290a5a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/exploded-aar/com.github.jkwiecien/EasyImage/1.2.3/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="46fdd8edf5f7e8a7bd7323fd0df9598b73076c4f">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/com.github.jkwiecien-EasyImage-1.2.3_5cfb687db635dafd38dbf49d189b4c2538cc396e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="6f3357b897f59b9d5253e5339fed29031df78f05">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.8.1_ff83b82f4fe84782b317556987411862fe844bfb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/exploded-aar/com.ogaclejapan.smarttablayout/library/1.6.0/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/exploded-aar/com.ogaclejapan.smarttablayout/library/1.6.0/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="23.0.3"
         sha1="773103b47908c3026873309dd5d968b7fc6556eb">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/com.ogaclejapan.smarttablayout-library-1.6.0_e862d15e1b7aee2369cb9fd37bea679b733a5e16.jar" />
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.ogaclejapan.smarttablayout-library-1.6.0_f4608edfb066eccfbdec2d832407258ab2d68a06/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/exploded-aar/com.github.florent37/materialviewpager/1.1.3/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="23.0.3"
-        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_f75a38fe057482fde1986f400ec5ad3ba839c38c.jar" />
+        sha1="44659983651a49b0b0691e874bde6475bc067648">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.florent37-materialviewpager-1.1.3_9c0ffce4a0cc7d580707f65e194f5e8089a910dd/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/com.android.support-multidex-1.0.1_71120feff25234e504a19404ebb495dc17566645.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_8a2613afbc2421b3e83d635a76e3daf5db3e1fa6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/exploded-aar/com.ogaclejapan.smarttablayout/utils-v4/1.6.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="7b6793eb8e6071cd11334f1b0af8dca2e662a561">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/com.ogaclejapan.smarttablayout-utils-v4-1.6.0_4472a7fc1c63b80faf22d8410abf63b7ca101499.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/okio-1.6.0_64b2f6f74c91aa06a86c7f765ac67ea03a12ad42.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.1_113dbdc075f45a740bf22bd4e4e8723103d4cc7e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.0_fe788d3ef47fb9466fda9c6c43b511be1bc9a8e3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.4/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="6f57b76211a1d7b0c1f18873af59faad95664681">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/com.google.maps.android-android-maps-utils-0.4.4_fca3c6f8a54c2d8775ac6f227af60f25d035ddf2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_adf1d04b5921c49ca2a4afd018bf4f5975f0ccaf.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.1/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.1/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="23.0.3"
         sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-10.0.1_6dc79fe1dd45bb000e31c54b4f83bc131e232f63.jar" />
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-10.0.1_a341497682315328319c21d402e3d6d310a6090e/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/Fab/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.1/44780c2cf98f6a3cf4e77f1234d644758b329201/bolts-android-1.2.1.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/Fab/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="true"
         optimize="true"
         revision="23.0.3"
-        sha1="44780c2cf98f6a3cf4e77f1234d644758b329201">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.1_33700019ae5533303a1d3793aa97cfc1e47306c6.jar" />
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.5.0_caf8247d383c2e3bbd180a7779c9f030388b8f82/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/1.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="4b868b833b0887aa48c4e581558eef4f1196f6a2">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/de.hdodenhof-circleimageview-1.2.1_1e7cb36a9dbd1cfeb884411eb49ac15ee199032e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_7bb264218a7c15731c4e0e2ef5ade7309258176a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.1_f88a99ed84696bc9ddd724f2411d0ccc6beafee7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="aee64634871d88a419d59eb743c1258a60f19700">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_fdd9a40dcb322615754bdd049981126995d5ec0b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_cf0a7f42a23e47ef278adf6c42a8a4a235b51df2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_3914736ba2f88cb926d94f0b1ab1a0a95a55b89c.jar" />
-    </item>
-    <item
-        is-multidex="false"
+        is-multidex="true"
         jar="/Users/Fab/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
         revision="23.0.3"
         sha1="a681c044244d9fc375198588297a39ba78028423">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0_e66d5c88bfc2f85d72bbb0c36f3a00d0ace0ed54.jar" />
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-1.9.0_e66d5c88bfc2f85d72bbb0c36f3a00d0ace0ed54/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/exploded-aar/me.relex/circleindicator/1.1.5/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="23.0.3"
-        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-10.0.1_1c4611ab239d8fb4fca2ec528affd483fc023e8d.jar" />
+        sha1="3505b86b653bb367105403d204cc7752142d86c1">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/me.relex-circleindicator-1.1.5_c371b5776454873c35a213a01365a28f999cf6b4/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.0.1/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="23.0.3"
-        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-places-10.0.1_0b781293b5b5b8012a53361f08f3441bb80350ce.jar" />
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_d30c4c53901fe2eacf997d6931e9119873641791/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/Fab/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-urlconnection/2.5.0/d737653459be272e881d51024274fa4785225641/okhttp-urlconnection-2.5.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.3"
-        sha1="d737653459be272e881d51024274fa4785225641">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-2.5.0_ee0d1dbd5758d5f3e0bef767cafd8dd66553fdfd.jar" />
-    </item>
-    <item
-        is-multidex="false"
+        is-multidex="true"
         jar="/Users/Fab/.gradle/caches/modules-2/files-2.1/com.flaviofaria/kenburnsview/1.0.6/65dcd9c03096b73f4740d63cf93d30a692fe52b5/kenburnsview-1.0.6.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
         revision="23.0.3"
         sha1="65dcd9c03096b73f4740d63cf93d30a692fe52b5">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/kenburnsview-1.0.6_3925d2fd9b195c52f932c2a09112a47676734f94.jar" />
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/kenburnsview-1.0.6_3925d2fd9b195c52f932c2a09112a47676734f94/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.0/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_640676f5619d6244fc45a517740722caeebb91e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/exploded-aar/com.github.nguyenhoanglam/ImagePicker/1.1.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f64eb65137748aa084d8e746b08911102b82a25d">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.nguyenhoanglam-ImagePicker-1.1.3_df09024389eb9b02388221e2bed5cedcd6db1b1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6f57b76211a1d7b0c1f18873af59faad95664681">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.maps.android-android-maps-utils-0.4.4_d0c6e19860d501f107a08b236ed32e84f76b104f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_2c652163de3b9fc8b4de8d2adcc6785764cef78d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.0.1_19d3f0fc6ee5d627dde56ae00f43a0e783244140/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.0_ed165013f2b570ef135781254dd182878c13c6b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_a53a2045a0d4adbc41147b2ec81d8211d5abdb1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_2ac058bedd22160d6e0c824ed46070780e211431/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4cde22acd4a776bda7fc72a5a509b184d503bcab">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f0f6841da18febf5c368e0f4cfd431ba63957b37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_85d075b966f82d2f1b79b9f81f699448378d9fd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/exploded-aar/com.github.nitrico.stickyscrollview/stickyscrollview/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="50a6a89d629a84f9c388ddc7de9b81b50c2eaa4f">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.nitrico.stickyscrollview-stickyscrollview-1.0.1_becc7cedf21048783ca4a0b7763155c370737ad8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-10.0.1_f359b73866f7b3a1ab13bf11f7f7a393f3cf1a60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/exploded-aar/com.github.ksoichiro/android-observablescrollview/1.5.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="256c2cf84542c459927ed4aa5f99a9b47855c071">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.ksoichiro-android-observablescrollview-1.5.2_f93f3953bc24d2a3ba5bba05fef8d21e72246493/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="23.0.3"
         sha1="7f2420506110902f033406b25697cf97ee8c38b2">
-        <dex dex="/Users/Fab/Desktop/Work/Epitech/ilmc-android/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.1.0_5dd7aa16647f12a2574df1d12c5aa599b597116c.jar" />
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.1.0_d7c2bc475e43e1d01eb9af6afa2b4187812614b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_aca556cf85168ae022ae2edd723201137f6f9397/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_3013b7237536629c51ab335f22a183c199d47c8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_2e7188497cade848b3cea8b2e6a335bddbcc3bac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_492bf90c873b7b326e74f50f4bd70788c86b0c4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/libs/cloudinary-core-1.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1f9cdf1e3635c9a728c71bd7aaf58e306d001465">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/2/cloudinary-core-1.2.2_f6abb3af20d38a5fd5fab42bf88ff378f704bb79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/exploded-aar/com.ogaclejapan.smarttablayout/utils-v4/1.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7b6793eb8e6071cd11334f1b0af8dca2e662a561">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.ogaclejapan.smarttablayout-utils-v4-1.6.0_baf4b129657547087c6e1611bcec5b36a315ca63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/exploded-aar/com.github.jkwiecien/EasyImage/1.2.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="46fdd8edf5f7e8a7bd7323fd0df9598b73076c4f">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.jkwiecien-EasyImage-1.2.3_80687d004c74432e8f8673add5b440f49c5d5af7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/exploded-aar/com.github.armcha/SpaceNavigationView/1.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4c909a24453c6434929f10563c9eff3cc2e54587">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.armcha-SpaceNavigationView-1.1.0_0322c8417ba80a31172fecda39b3cb67931d5697/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="24f05acbd61d8c9781465df798b78763f18e9a49">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f1c38c6ed069ffb2cbc9f314a58a80450fb29d5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_c0f9fbf8a114a1577f48a6ee99a0e0f08f462e91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_2d3f472a8867cfb6a31983344601292681db47ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-urlconnection/2.5.0/d737653459be272e881d51024274fa4785225641/okhttp-urlconnection-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d737653459be272e881d51024274fa4785225641">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-2.5.0_ee0d1dbd5758d5f3e0bef767cafd8dd66553fdfd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/exploded-aar/com.github.armcha/datehelper/2.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9851cd9be96b40f31539107d3b8e1cff954e04c4">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.armcha-datehelper-2.2.0_b003c142fd7b4a6f582bb5e1166aea99a682f228/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_51cbe9b4fd27954e6a5b3caae5f0b823b229d7ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_64b2f6f74c91aa06a86c7f765ac67ea03a12ad42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_60d0f26c81578deb078e2f7dca4ee75e5b2e6f22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4b868b833b0887aa48c4e581558eef4f1196f6a2">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-1.2.1_81093a25a545ed33b60c812596d9036192c497a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_aa12074b47ebec14c615954b80ef6476acb7ffe5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.8.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6f3357b897f59b9d5253e5339fed29031df78f05">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.8.1_c1c921deec37085dca212535cb68673fd317cc5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/exploded-aar/com.jpardogo.materialtabstrip/library/1.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="611c7708cd3df0d7ae99105d4df5af8eb25c4b32">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jpardogo.materialtabstrip-library-1.1.0_cbb8e510a81e20f86e4091749e73f29ec1e0912c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.0_96b3f5ba2edc92f15c757d81b2a51a956273b72e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_e893359c4dd53cbe85be997d9e801f637b23675c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.0.1_1b206f5cd96cb05d0983c5cd0790857b26b0520e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/libs/cloudinary-android-1.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2026ce27a1f4afcc0488e3bc3a965ca9cdf9efe9">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/2/cloudinary-android-1.2.2_94557873b1ad9f935bd75421a7b4cfa26444deea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_adf1d04b5921c49ca2a4afd018bf4f5975f0ccaf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.4_b476ff5b30a840417743709fe2bc414c453b1d80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ca5e58104f56f918f0fb3a5b1b371ab599ae56b2">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.2.1_092869652722942a6856d548b5019a3b3504e14b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_36d1936fdce51fc5db77152044a0112e2384e468/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/eventbus-3.0.0_2991d8023cec825b6a8e49e7b5341259c4b27b5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.2.1/d6f54d76edfbe779a50a8636b10fd3f555d8f780/butterknife-annotations-8.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d6f54d76edfbe779a50a8636b10fd3f555d8f780">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.2.1_c8c0181873437ed408892628f9563d1ff0c5784c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/exploded-aar/com.github.ybq/Android-SpinKit/1.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="876128c14268a173e9f1be29ed9ee637575f7e91">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.ybq-Android-SpinKit-1.0.4_5af6a6b291f3e751e898191a50963f25c86c3788/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-10.0.1_bee2709ce0caa12af8d79204482e4a12a5c6235d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Fab/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.1/44780c2cf98f6a3cf4e77f1234d644758b329201/bolts-android-1.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="44780c2cf98f6a3cf4e77f1234d644758b329201">
+        <dex dex="/Users/Fab/Desktop/Work/ilmc_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-android-1.2.1_33700019ae5533303a1d3793aa97cfc1e47306c6/classes.dex" />
     </item>
 
 </items>

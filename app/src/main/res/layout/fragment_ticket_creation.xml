@@ -20,11 +20,14 @@
             android:contentDescription="@string/photo_incident" />
 
         <LinearLayout
-            android:layout_width="match_parent"
+            android:id="@+id/adress"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:orientation="vertical"
             android:layout_toRightOf="@+id/iv_photo_ticket"
             android:layout_toEndOf="@+id/iv_photo_ticket"
+            android:layout_toLeftOf="@+id/spinner_type"
+            android:layout_toStartOf="@+id/spinner_type"
             android:layout_centerVertical="true">
 
             <TextView
@@ -45,6 +48,16 @@
                 android:ellipsize="end"/>
 
         </LinearLayout>
+
+        <Spinner
+            android:id="@+id/spinner_type"
+            android:layout_width="100dp"
+            android:layout_height="48dp"
+            android:layout_margin="16dp"
+            android:background="@drawable/edit_text_bg"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true" />
 
     </RelativeLayout>
 

@@ -13,6 +13,7 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
@@ -223,14 +224,17 @@ public class CityFragment extends Fragment {
                     @Override
                     public void onClick(DialogInterface dialogInterface, int i) {
 
-                        String geo = "google.navigation:q=" + mCity.getLocation().getCoordinates()[0] + "," + mCity.getLocation().getCoordinates()[1];
+                        if (mCity.getLocation() != null) {
+                            String geo = "google.navigation:q=" + mCity.getLocation().getCoordinates()[0] + "," + mCity.getLocation().getCoordinates()[1];
 
-                        Uri gmmIntentUri = Uri.parse(geo);
-                        Intent mapIntent = new Intent(Intent.ACTION_VIEW, gmmIntentUri);
-                        mapIntent.setPackage("com.google.android.apps.maps");
-                        if (mapIntent.resolveActivity(getActivity().getPackageManager()) != null) {
-                            startActivity(mapIntent);
-                        }
+                            Uri gmmIntentUri = Uri.parse(geo);
+                            Intent mapIntent = new Intent(Intent.ACTION_VIEW, gmmIntentUri);
+                            mapIntent.setPackage("com.google.android.apps.maps");
+                            if (mapIntent.resolveActivity(getActivity().getPackageManager()) != null) {
+                                startActivity(mapIntent);
+                            }
+                        } else
+                            Toast.makeText(getActivity(), "Error", Toast.LENGTH_SHORT).show();
 
                     }
                 })

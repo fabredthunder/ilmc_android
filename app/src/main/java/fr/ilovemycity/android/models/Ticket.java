@@ -29,6 +29,7 @@ public class Ticket implements Serializable {
     private boolean  vote;
     private String   status;
     private String  creatorId;
+    private String  type;
 
     // City informations
     private String cityId;
@@ -170,6 +171,14 @@ public class Ticket implements Serializable {
 
     public void setCreatorId(String creatorId) {
         this.creatorId = creatorId;
+    }
+
+    public String getType() {
+        return type;
+    }
+
+    public void setType(String type) {
+        this.type = type;
     }
 
     /**

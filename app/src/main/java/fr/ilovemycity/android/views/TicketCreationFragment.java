@@ -9,8 +9,10 @@ import android.support.v4.content.ContextCompat;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ArrayAdapter;
 import android.widget.EditText;
 import android.widget.ImageView;
+import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -54,11 +56,14 @@ public class TicketCreationFragment extends Fragment implements View.OnClickList
      * ATTRIBUTES *
      **************/
 
+    String[] types = {"Type", "Incident", "Danger", "Initiative", "Divers"};
+
     @BindView(R.id.iv_photo_ticket) ImageView   ivPhotoTicket;
     @BindView(R.id.tv_ticket_adress) TextView   tvTicketAdress;
     @BindView(R.id.input_title) EditText        etTitle;
     @BindView(R.id.input_description) EditText  etDescription;
     @BindView(R.id.tv_submit) TextView          tvSubmit;
+    @BindView(R.id.spinner_type) Spinner        spinnerType;
 
     private LatLng      position;
     private File        photoFile = null;
@@ -88,6 +93,14 @@ public class TicketCreationFragment extends Fragment implements View.OnClickList
     public void onStart() {
         super.onStart();
         EventBus.getDefault().register(this);
+
+        final ArrayAdapter<CharSequence> adapter = new ArrayAdapter<>(getContext(), R.layout.spinner_item);
+
+        for (String type : types) {
+            adapter.add(type);
+        }
+        spinnerType.setAdapter(adapter);
+        spinnerType.setSelection(0);
     }
 
     @Override
@@ -119,6 +132,14 @@ public class TicketCreationFragment extends Fragment implements View.OnClickList
                 ticket.setAddress(tvTicketAdress.getText().toString());
                 ticket.setDescription(etDescription.getText().toString());
                 ticket.setCityId(ILMCApp.getUser().getCityId());
+                ticket.setType(types[spinnerType.getSelectedItemPosition()]);
+
+                String type = types[spinnerType.getSelectedItemPosition()];
+
+                if (type.equals("Type"))
+                    type = "Divers";
+
+                ticket.setType(type);
 
                 ticket.setLocation(new Loc());
 
@@ -129,10 +150,10 @@ public class TicketCreationFragment extends Fragment implements View.OnClickList
 
                     @Override
                     public void success(Ticket ticket, Response response) {
-                        if (photoFile != null) {
-                            EventBus.getDefault().postSticky(new RefreshTicketsEvent("createdAt"));
-                            EventBus.getDefault().post(new RefreshMapEvent());
+                        EventBus.getDefault().postSticky(new RefreshTicketsEvent("createdAt"));
+                        EventBus.getDefault().post(new RefreshMapEvent());
 
+                        if (photoFile != null) {
                             InputStream is;
                             try {
                                 is = new FileInputStream(photoFile);
@@ -199,6 +220,6 @@ public class TicketCreationFragment extends Fragment implements View.OnClickList
 
     @Subscribe(sticky = true, threadMode = ThreadMode.MAIN)
     public void onGalleryResultEvent(GalleryResultEvent event) {
-       //todo
+        //todo
     }
 }
